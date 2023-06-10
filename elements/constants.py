@@ -1,4 +1,4 @@
-"""Stores game constants"""
+""'Хранит игровые константы'""
 
 # Colors
 WHITE = (255, 255, 255)
@@ -23,9 +23,9 @@ LINE_WIDTH = 1
 # Button constants
 AUTO_BUTTON_PLACE = LEFT_MARGIN + 17 * BLOCK_SIZE
 MANUAL_BUTTON_PLACE = LEFT_MARGIN + 20 * BLOCK_SIZE
-HOW_TO_CREATE_SHIPS_MESSAGE = "How do you want to create your ships? Click the button"
+HOW_TO_CREATE_SHIPS_MESSAGE = "Как вы хотите создавать свои корабли? Нажмите кнопку"
 UNDO_BUTTON_PLACE = LEFT_MARGIN + 19 * BLOCK_SIZE
-PLAY_AGAIN_MESSAGE = "Do you want to play again or quit?"
+PLAY_AGAIN_MESSAGE = "Вы хотите играть снова или выйти?"
 PLAY_AGAIN_BUTTON_PLACE = LEFT_MARGIN + 15 * BLOCK_SIZE
 
 # Rectangular areas for grids, messages, buttons and ship counts
